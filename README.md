@@ -1,4 +1,4 @@
-# welcome to python django and vim World
+# welcome to python django and vuejs World
 
 this project with tow side frontend and backend
 
