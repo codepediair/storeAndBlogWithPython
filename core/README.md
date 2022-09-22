@@ -11,12 +11,15 @@
 ``` then active virtual envirment ```
 
 ``` in linux ```
+
 	source /env/bin/activate
 
 ``` in windows ```
+
 	.\env\Scripts\activate
 
 ``` after activate your virtual enviroment must install every thig you need just one command ```
+
 	pip install requirments.txt
 
 ``` Done ```
