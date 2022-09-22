@@ -2,21 +2,21 @@
 
 ``` change curent directory to core directory ```
 
-> cd core
+	cd core
 
 ``` after this add virtual envirment ```
 
-> python3 -m venv env
+	python3 -m venv env
 
 ``` then active virtual envirment ```
 
 ``` in linux ```
-> source /env/bin/activate
+	source /env/bin/activate
 
 ``` in windows ```
-> .\env\Scripts\activate
+	.\env\Scripts\activate
 
 ``` after activate your virtual enviroment must install every thig you need just one command ```
-> pip install requirments.txt
+	pip install requirments.txt
 
 ``` Done ```
